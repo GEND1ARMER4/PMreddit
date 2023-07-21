@@ -5,10 +5,10 @@
     {
       "name": "Project Moon",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1094193333573779521/1131890073374298214/PM_mini_reddit.png"
+        "https://cdn.discordapp.com/attachments/1094193333573779521/1131927082591592529/PM_reddit.png"
       ],
-      "x": 408,
-      "y": 30
+      "x": 908,
+      "y": 530
     }
   ],
   "whitelist": [
