@@ -14,6 +14,10 @@
     {
       "name": "UGA",
       "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
+    },
+    {
+      "name": "Moonframe2023",
+      "url": "https://rentry.co/Moonframe2023"
     }
   ],
   "blacklist": []
